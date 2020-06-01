@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\WPy64-3820\\python-3.8.2.amd64\\python.exe",
+    "git.enabled": true,
+    "git.path":"c:\\Users\\i80430\\AppData\\Local\\Programs\\Git\\mingw64\\bin\\git.exe"
+}
